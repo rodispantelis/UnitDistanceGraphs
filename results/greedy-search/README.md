@@ -1,6 +1,6 @@
 ### Experimental results for the greedy search algorithm. 
 
-#### Current version generates a graph with a scaling exponent ~1.17.
+#### Current version generates a graph with a scaling exponent that exceeds 1.17.
 
 * **[greedy-search-results_509K.csv](greedy-search-results_509K.csv)** 
   * The produced 509,445 points in the form <x_num, x_den, y_num, y_den, x_float, y_float>.
