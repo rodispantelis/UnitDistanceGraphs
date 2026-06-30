@@ -1,6 +1,6 @@
 ### Experimental results for the heuristic search algorithm.
 
-* **[heuristic-search-results_22K.csv](heuristic-search-results_22K.csv)** 
+* **[heuristic-search-results-22K.csv](heuristic-search-results-22K.csv)** 
   * The produced 22,030 points stored in the form <x_num, x_den, y_num, y_den, x_float, y_float>.
 
 * **[heuristic-search-metrics.csv](heuristic-search-metrics.csv)** 
