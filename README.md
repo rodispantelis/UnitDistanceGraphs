@@ -12,6 +12,6 @@ This project explores the Unit Distance problem through an algorithmic search in
 
 ---
 [1] Rodis P. (2026). "Algorithmic exploration of the unit distance problem in the rational
-  plane", arXiv:2606.29415 , [https://doi.org/10.48550/arXiv.2606.29415](https://doi.org/10.48550/arXiv.2606.29415).[[PDF]](https://arxiv.org/pdf/2606.29415)
+  plane", arXiv:2606.29415 , [https://doi.org/10.48550/arXiv.2606.29415](https://doi.org/10.48550/arXiv.2606.29415). [[PDF]](https://arxiv.org/pdf/2606.29415)
 
 
