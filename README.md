@@ -4,7 +4,7 @@
 
 This project explores the Unit Distance problem through an algorithmic search in the plane of rational numbers
 
-* **[results](https://rodispantelis.github.io/UnitDistanceGraphs/results) :** The experimental results from the application of a greedy and a heuristic algoithm.
+* **[results](https://rodispantelis.github.io/UnitDistanceGraphs/results) :** The experimental results from the application of a greedy and a heuristic algoithm. Currently reaching a graph growth of scaling exponent ~1.17.
 
 * **[src](https://rodispantelis.github.io/UnitDistanceGraphs/src) :** Source code for the two algorithms that produce unit-distance graphs. Python scripts and Java code that analyze their properties.
 
