@@ -12,6 +12,6 @@
 * **[greedy-graph-nodes_509K.csv](greedy-graph-nodes_509K.csv)** 
   * The 509,445 graph nodes stored in the form <id, x_num, x_den, y_num, y_den >
 
-* **[greedy-graph-edges_509K.csv](greedy-graph-edges_509K.csv)** 
+* **[greedy-graph-edges_509K.zip](greedy-graph-edges_509K.zip)** 
   * The 4,919,523 graph edges stored in edge list format <node1, node2>
 
