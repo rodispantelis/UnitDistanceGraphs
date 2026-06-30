@@ -1,6 +1,6 @@
 ### Source code for the two algorithms that produce unit-distance graphs and for procedures that analyze their properties.
 
-* **unit-distance-greedy_search_v1.py** 
+* **[unit-distance-greedy_search_v1.py](unit-distance-greedy_search_v1.py)** 
   * A greedy algorithm that explores the rational plane and generates dense and highly symmetrical unit-distance graphs.
 
 * **unit-distance-heuristic_search_v1.py** 
