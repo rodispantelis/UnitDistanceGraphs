@@ -1,6 +1,6 @@
 ### Experimental results.
 
-* **[greedy search algorithm](https://rodispantelis.github.io/UnitDistanceGraphs/results/greedy-search)** 
+* **[greedy search algorithm](https://rodispantelis.github.io/UnitDistanceGraphs/results/greedy-search-509K)** 
 
-* **[heuristic search algorithm](https://rodispantelis.github.io/UnitDistanceGraphs/results/heuristic-search)** 
+* **[heuristic search algorithm](https://rodispantelis.github.io/UnitDistanceGraphs/results/heuristic-search-22K)** 
  

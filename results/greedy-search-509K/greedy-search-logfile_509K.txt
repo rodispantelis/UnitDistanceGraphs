@@ -1,0 +1,533 @@
+ Using Processing Device: CUDA
+
+No existing checkpoint found. Initializing with default seed points.
+
+==================================================
+ ITERATION 01
+==================================================
+
+[EVALUATION] Checking graph state with max_denom = 5:
+ -> Points Added This Pass : 15
+ -> Total Nodes (N)        : 17
+ -> Total Edges (E)        : 20
+ -> Graph Density (k)      : 1.0574
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 25
+
+[EVALUATION] Checking graph state with max_denom = 25:
+ -> Points Added This Pass : 78
+ -> Total Nodes (N)        : 95
+ -> Total Edges (E)        : 178
+ -> Graph Density (k)      : 1.1379
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 50
+
+[EVALUATION] Checking graph state with max_denom = 50:
+ -> Points Added This Pass : 296
+ -> Total Nodes (N)        : 391
+ -> Total Edges (E)        : 830
+ -> Graph Density (k)      : 1.1261
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 65
+
+[EVALUATION] Checking graph state with max_denom = 65:
+ -> Points Added This Pass : 890
+ -> Total Nodes (N)        : 1281
+ -> Total Edges (E)        : 3378
+ -> Graph Density (k)      : 1.1355
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 85
+
+[EVALUATION] Checking graph state with max_denom = 85:
+ -> Points Added This Pass : 1224
+ -> Total Nodes (N)        : 2505
+ -> Total Edges (E)        : 7084
+ -> Graph Density (k)      : 1.1328
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 100
+
+[EVALUATION] Checking graph state with max_denom = 100:
+ -> Points Added This Pass : 817
+ -> Total Nodes (N)        : 3322
+ -> Total Edges (E)        : 10065
+ -> Graph Density (k)      : 1.1367
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 125
+
+[EVALUATION] Checking graph state with max_denom = 125:
+ -> Points Added This Pass : 5162
+ -> Total Nodes (N)        : 8484
+ -> Total Edges (E)        : 24001
+ -> Graph Density (k)      : 1.1150
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 130
+
+[EVALUATION] Checking graph state with max_denom = 130:
+ -> Points Added This Pass : 4911
+ -> Total Nodes (N)        : 13395
+ -> Total Edges (E)        : 44987
+ -> Graph Density (k)      : 1.1275
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 145
+
+[EVALUATION] Checking graph state with max_denom = 145:
+ -> Points Added This Pass : 3028
+ -> Total Nodes (N)        : 16423
+ -> Total Edges (E)        : 57745
+ -> Graph Density (k)      : 1.1295
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 170
+
+[EVALUATION] Checking graph state with max_denom = 170:
+ -> Points Added This Pass : 7071
+ -> Total Nodes (N)        : 23494
+ -> Total Edges (E)        : 87009
+ -> Graph Density (k)      : 1.1301
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 185
+
+[EVALUATION] Checking graph state with max_denom = 185:
+ -> Points Added This Pass : 5022
+ -> Total Nodes (N)        : 28516
+ -> Total Edges (E)        : 113595
+ -> Graph Density (k)      : 1.1347
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 200
+
+[EVALUATION] Checking graph state with max_denom = 200:
+ -> Points Added This Pass : 207
+ -> Total Nodes (N)        : 28723
+ -> Total Edges (E)        : 115162
+ -> Graph Density (k)      : 1.1353
+
+[INCOMPLETE] Density is below target (1.33).
+
+[WARNING] Reached end of curated FRUITFUL_DENOMINATORS list.
+Forcing transition to next iteration to prevent memory overflow.
+
+==================================================
+ ITERATION 02
+==================================================
+
+[EVALUATION] Checking graph state with max_denom = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 28723
+ -> Total Edges (E)        : 115162
+ -> Graph Density (k)      : 1.1353
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 25
+
+[EVALUATION] Checking graph state with max_denom = 25:
+ -> Points Added This Pass : 16
+ -> Total Nodes (N)        : 28739
+ -> Total Edges (E)        : 115274
+ -> Graph Density (k)      : 1.1353
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 50
+
+[EVALUATION] Checking graph state with max_denom = 50:
+ -> Points Added This Pass : 44
+ -> Total Nodes (N)        : 28783
+ -> Total Edges (E)        : 115794
+ -> Graph Density (k)      : 1.1356
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 65
+
+[EVALUATION] Checking graph state with max_denom = 65:
+ -> Points Added This Pass : 9717
+ -> Total Nodes (N)        : 38500
+ -> Total Edges (E)        : 215252
+ -> Graph Density (k)      : 1.1630
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 85
+
+[EVALUATION] Checking graph state with max_denom = 85:
+ -> Points Added This Pass : 18054
+ -> Total Nodes (N)        : 56554
+ -> Total Edges (E)        : 389099
+ -> Graph Density (k)      : 1.1762
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 100
+
+[EVALUATION] Checking graph state with max_denom = 100:
+ -> Points Added This Pass : 108
+ -> Total Nodes (N)        : 56662
+ -> Total Edges (E)        : 389983
+ -> Graph Density (k)      : 1.1762
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 125
+
+[EVALUATION] Checking graph state with max_denom = 125:
+ -> Points Added This Pass : 21159
+ -> Total Nodes (N)        : 77821
+ -> Total Edges (E)        : 501987
+ -> Graph Density (k)      : 1.1655
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 130
+
+[EVALUATION] Checking graph state with max_denom = 130:
+ -> Points Added This Pass : 1150
+ -> Total Nodes (N)        : 78971
+ -> Total Edges (E)        : 516887
+ -> Graph Density (k)      : 1.1666
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 145
+
+[EVALUATION] Checking graph state with max_denom = 145:
+ -> Points Added This Pass : 19391
+ -> Total Nodes (N)        : 98362
+ -> Total Edges (E)        : 591797
+ -> Graph Density (k)      : 1.1561
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 170
+
+[EVALUATION] Checking graph state with max_denom = 170:
+ -> Points Added This Pass : 3235
+ -> Total Nodes (N)        : 101597
+ -> Total Edges (E)        : 634452
+ -> Graph Density (k)      : 1.1589
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 185
+
+[EVALUATION] Checking graph state with max_denom = 185:
+ -> Points Added This Pass : 31030
+ -> Total Nodes (N)        : 132627
+ -> Total Edges (E)        : 759320
+ -> Graph Density (k)      : 1.1479
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 200
+
+[EVALUATION] Checking graph state with max_denom = 200:
+ -> Points Added This Pass : 200
+ -> Total Nodes (N)        : 132827
+ -> Total Edges (E)        : 761410
+ -> Graph Density (k)      : 1.1480
+
+[INCOMPLETE] Density is below target (1.33).
+
+[WARNING] Reached end of curated FRUITFUL_DENOMINATORS list.
+Forcing transition to next iteration to prevent memory overflow.
+
+==================================================
+ ITERATION 03
+==================================================
+
+[EVALUATION] Checking graph state with max_denom = 5:
+ -> Points Added This Pass : 8
+ -> Total Nodes (N)        : 132835
+ -> Total Edges (E)        : 761762
+ -> Graph Density (k)      : 1.1481
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 25
+
+[EVALUATION] Checking graph state with max_denom = 25:
+ -> Points Added This Pass : 64
+ -> Total Nodes (N)        : 132899
+ -> Total Edges (E)        : 762446
+ -> Graph Density (k)      : 1.1481
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 50
+
+[EVALUATION] Checking graph state with max_denom = 50:
+ -> Points Added This Pass : 24
+ -> Total Nodes (N)        : 132923
+ -> Total Edges (E)        : 762724
+ -> Graph Density (k)      : 1.1481
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 65
+
+[EVALUATION] Checking graph state with max_denom = 65:
+ -> Points Added This Pass : 1952
+ -> Total Nodes (N)        : 134875
+ -> Total Edges (E)        : 788532
+ -> Graph Density (k)      : 1.1495
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 85
+
+[EVALUATION] Checking graph state with max_denom = 85:
+ -> Points Added This Pass : 2812
+ -> Total Nodes (N)        : 137687
+ -> Total Edges (E)        : 825516
+ -> Graph Density (k)      : 1.1514
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 100
+
+[EVALUATION] Checking graph state with max_denom = 100:
+ -> Points Added This Pass : 136
+ -> Total Nodes (N)        : 137823
+ -> Total Edges (E)        : 827056
+ -> Graph Density (k)      : 1.1514
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 125
+
+[EVALUATION] Checking graph state with max_denom = 125:
+ -> Points Added This Pass : 38461
+ -> Total Nodes (N)        : 176284
+ -> Total Edges (E)        : 1125808
+ -> Graph Density (k)      : 1.1535
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 130
+
+[EVALUATION] Checking graph state with max_denom = 130:
+ -> Points Added This Pass : 1220
+ -> Total Nodes (N)        : 177504
+ -> Total Edges (E)        : 1142444
+ -> Graph Density (k)      : 1.1540
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 145
+
+[EVALUATION] Checking graph state with max_denom = 145:
+ -> Points Added This Pass : 68149
+ -> Total Nodes (N)        : 245653
+ -> Total Edges (E)        : 1816508
+ -> Graph Density (k)      : 1.1612
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 170
+
+[EVALUATION] Checking graph state with max_denom = 170:
+ -> Points Added This Pass : 2672
+ -> Total Nodes (N)        : 248325
+ -> Total Edges (E)        : 1852344
+ -> Graph Density (k)      : 1.1618
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 185
+
+[EVALUATION] Checking graph state with max_denom = 185:
+ -> Points Added This Pass : 107350
+ -> Total Nodes (N)        : 355675
+ -> Total Edges (E)        : 2865668
+ -> Graph Density (k)      : 1.1632
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 200
+
+[EVALUATION] Checking graph state with max_denom = 200:
+ -> Points Added This Pass : 248
+ -> Total Nodes (N)        : 355923
+ -> Total Edges (E)        : 2868800
+ -> Graph Density (k)      : 1.1633
+
+[INCOMPLETE] Density is below target (1.33).
+
+[WARNING] Reached end of curated FRUITFUL_DENOMINATORS list.
+Forcing transition to next iteration to prevent memory overflow.
+
+==================================================
+ ITERATION 04
+==================================================
+
+[EVALUATION] Checking graph state with max_denom = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 355923
+ -> Total Edges (E)        : 2868800
+ -> Graph Density (k)      : 1.1633
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 25
+
+[EVALUATION] Checking graph state with max_denom = 25:
+ -> Points Added This Pass : 32
+ -> Total Nodes (N)        : 355955
+ -> Total Edges (E)        : 2869184
+ -> Graph Density (k)      : 1.1633
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 50
+
+[EVALUATION] Checking graph state with max_denom = 50:
+ -> Points Added This Pass : 60
+ -> Total Nodes (N)        : 356015
+ -> Total Edges (E)        : 2870124
+ -> Graph Density (k)      : 1.1633
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 65
+
+[EVALUATION] Checking graph state with max_denom = 65:
+ -> Points Added This Pass : 2184
+ -> Total Nodes (N)        : 358199
+ -> Total Edges (E)        : 2900016
+ -> Graph Density (k)      : 1.1635
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 85
+
+[EVALUATION] Checking graph state with max_denom = 85:
+ -> Points Added This Pass : 3308
+ -> Total Nodes (N)        : 361507
+ -> Total Edges (E)        : 2944860
+ -> Graph Density (k)      : 1.1639
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 100
+
+[EVALUATION] Checking graph state with max_denom = 100:
+ -> Points Added This Pass : 148
+ -> Total Nodes (N)        : 361655
+ -> Total Edges (E)        : 2946492
+ -> Graph Density (k)      : 1.1639
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 125
+
+[EVALUATION] Checking graph state with max_denom = 125:
+ -> Points Added This Pass : 18516
+ -> Total Nodes (N)        : 380171
+ -> Total Edges (E)        : 3146264
+ -> Graph Density (k)      : 1.1645
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 130
+
+[EVALUATION] Checking graph state with max_denom = 130:
+ -> Points Added This Pass : 1400
+ -> Total Nodes (N)        : 381571
+ -> Total Edges (E)        : 3165720
+ -> Graph Density (k)      : 1.1646
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 145
+
+[EVALUATION] Checking graph state with max_denom = 145:
+ -> Points Added This Pass : 28172
+ -> Total Nodes (N)        : 409743
+ -> Total Edges (E)        : 3559218
+ -> Graph Density (k)      : 1.1673
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 170
+ -> Points Added This Pass : 2940
+ -> Total Nodes (N)        : 412683
+ -> Total Edges (E)        : 3600154
+ -> Graph Density (k)      : 1.1675
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 185
+ -> Points Added This Pass : 55634
+ -> Total Nodes (N)        : 468317
+ -> Total Edges (E)        : 4390996
+ -> Graph Density (k)      : 1.1714
+
+[EVALUATION] Checking graph state with max_denom = 200:
+ -> Points Added This Pass : 272
+ -> Total Nodes (N)        : 468589
+ -> Total Edges (E)        : 4394216
+ -> Graph Density (k)      : 1.1714
+
+[INCOMPLETE] Density is below target (1.33).
+
+==================================================
+ ITERATION 05
+==================================================
+
+[EVALUATION] Checking graph state with max_denom = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 468589
+ -> Total Edges (E)        : 4394216
+ -> Graph Density (k)      : 1.1714
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 25
+
+[EVALUATION] Checking graph state with max_denom = 25:
+ -> Points Added This Pass : 40
+ -> Total Nodes (N)        : 468629
+ -> Total Edges (E)        : 4394640
+ -> Graph Density (k)      : 1.1714
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 50
+
+[EVALUATION] Checking graph state with max_denom = 50:
+ -> Points Added This Pass : 48
+ -> Total Nodes (N)        : 468677
+ -> Total Edges (E)        : 4395200
+ -> Graph Density (k)      : 1.1714
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 65
+
+[EVALUATION] Checking graph state with max_denom = 65:
+ -> Points Added This Pass : 2388
+ -> Total Nodes (N)        : 471065
+ -> Total Edges (E)        : 4428896
+ -> Graph Density (k)      : 1.1715
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 85
+
+[EVALUATION] Checking graph state with max_denom = 85:
+ -> Points Added This Pass : 3568
+ -> Total Nodes (N)        : 474633
+ -> Total Edges (E)        : 4478884
+ -> Graph Density (k)      : 1.1717
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 100
+
+[EVALUATION] Checking graph state with max_denom = 100:
+ -> Points Added This Pass : 156
+ -> Total Nodes (N)        : 474789
+ -> Total Edges (E)        : 4481084
+ -> Graph Density (k)      : 1.1717
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 125
+
+[EVALUATION] Checking graph state with max_denom = 125:
+ -> Points Added This Pass : 13712
+ -> Total Nodes (N)        : 488501
+ -> Total Edges (E)        : 4628188
+ -> Graph Density (k)      : 1.1717
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 130
+
+[EVALUATION] Checking graph state with max_denom = 130:
+ -> Points Added This Pass : 1484
+ -> Total Nodes (N)        : 489985
+ -> Total Edges (E)        : 4649236
+ -> Graph Density (k)      : 1.1717
+
+[INCOMPLETE] Density is below target (1.33).
+Expanding rational fraction space to max_denominator = 145
+
+[EVALUATION] Checking graph state with max_denom = 145:
+ -> Points Added This Pass : 19460
+ -> Total Nodes (N)        : 509445
+ -> Total Edges (E)        : 4919524
+ -> Graph Density (k)      : 1.1726
+
+
