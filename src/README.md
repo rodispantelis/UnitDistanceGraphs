@@ -3,6 +3,9 @@
 * **[unit-distance-greedy_search_v1.py](unit-distance-greedy_search_v1.py)** 
   * A greedy algorithm that explores the rational plane and generates dense and highly symmetrical unit-distance graphs.
 
+* **[unit-distance-greedy_fast_search_v1.py](unit-distance-greedy_fast_search_v1.py)** 
+  * A faster version of the greedy algorithm, it only generates graph nodes and does not produce graph growth statistics.
+
 * **[unit-distance-heuristic_search_v1.py](unit-distance-heuristic_search_v1.py)** 
   * A heuristic algorithm that explores the rational plane and generates grid-based dense unit-distance graphs.
 
