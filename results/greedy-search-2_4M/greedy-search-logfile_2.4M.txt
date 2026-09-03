@@ -1,0 +1,1076 @@
+Using Processing Device: CUDA
+
+No existing checkpoint found. Initializing with default seed points.
+
+==================================================
+ ITERATION 01
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 15
+ -> Total Nodes (N)        : 17
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 78
+ -> Total Nodes (N)        : 95
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 296
+ -> Total Nodes (N)        : 391
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 890
+ -> Total Nodes (N)        : 1281
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 1224
+ -> Total Nodes (N)        : 2505
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 817
+ -> Total Nodes (N)        : 3322
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 5162
+ -> Total Nodes (N)        : 8484
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 4911
+ -> Total Nodes (N)        : 13395
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 3028
+ -> Total Nodes (N)        : 16423
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 7071
+ -> Total Nodes (N)        : 23494
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 5022
+ -> Total Nodes (N)        : 28516
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 207
+ -> Total Nodes (N)        : 28723
+
+
+==================================================
+ ITERATION 02
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 28723
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 16
+ -> Total Nodes (N)        : 28739
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 44
+ -> Total Nodes (N)        : 28783
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 9717
+ -> Total Nodes (N)        : 38500
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 18054
+ -> Total Nodes (N)        : 56554
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 108
+ -> Total Nodes (N)        : 56662
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 21159
+ -> Total Nodes (N)        : 77821
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1150
+ -> Total Nodes (N)        : 78971
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 19391
+ -> Total Nodes (N)        : 98362
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 3235
+ -> Total Nodes (N)        : 101597
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 31030
+ -> Total Nodes (N)        : 132627
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 200
+ -> Total Nodes (N)        : 132827
+
+
+
+==================================================
+ ITERATION 03
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 8
+ -> Total Nodes (N)        : 132835
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 64
+ -> Total Nodes (N)        : 132899
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 24
+ -> Total Nodes (N)        : 132923
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 1952
+ -> Total Nodes (N)        : 134875
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 2812
+ -> Total Nodes (N)        : 137687
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 136
+ -> Total Nodes (N)        : 137823
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 38461
+ -> Total Nodes (N)        : 176284
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1220
+ -> Total Nodes (N)        : 177504
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 68149
+ -> Total Nodes (N)        : 245653
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 2672
+ -> Total Nodes (N)        : 248325
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 107350
+ -> Total Nodes (N)        : 355675
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 248
+ -> Total Nodes (N)        : 355923
+
+
+==================================================
+ ITERATION 04
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 355923
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 32
+ -> Total Nodes (N)        : 355955
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 60
+ -> Total Nodes (N)        : 356015
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 2184
+ -> Total Nodes (N)        : 358199
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 3308
+ -> Total Nodes (N)        : 361507
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 148
+ -> Total Nodes (N)        : 361655
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 18516
+ -> Total Nodes (N)        : 380171
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1400
+ -> Total Nodes (N)        : 381571
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 28172
+ -> Total Nodes (N)        : 409743
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 2940
+ -> Total Nodes (N)        : 412683
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 55634
+ -> Total Nodes (N)        : 468317
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 272
+ -> Total Nodes (N)        : 468589
+
+
+
+==================================================
+ ITERATION 05
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 468589
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 40
+ -> Total Nodes (N)        : 468629
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 48
+ -> Total Nodes (N)        : 468677
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 2388
+ -> Total Nodes (N)        : 471065
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 3568
+ -> Total Nodes (N)        : 474633
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 156
+ -> Total Nodes (N)        : 474789
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 13712
+ -> Total Nodes (N)        : 488501
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1484
+ -> Total Nodes (N)        : 489985
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 19460
+ -> Total Nodes (N)        : 509445
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 3152
+ -> Total Nodes (N)        : 512597
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 32308
+ -> Total Nodes (N)        : 544905
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 272
+ -> Total Nodes (N)        : 545177
+
+
+
+==================================================
+ ITERATION 06
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 545177
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 60
+ -> Total Nodes (N)        : 545237
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 56
+ -> Total Nodes (N)        : 545293
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 2580
+ -> Total Nodes (N)        : 547873
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 3792
+ -> Total Nodes (N)        : 551665
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 172
+ -> Total Nodes (N)        : 551837
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 14752
+ -> Total Nodes (N)        : 566589
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1568
+ -> Total Nodes (N)        : 568157
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 20916
+ -> Total Nodes (N)        : 589073
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 3412
+ -> Total Nodes (N)        : 592485
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 34396
+ -> Total Nodes (N)        : 626881
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 276
+ -> Total Nodes (N)        : 627157
+
+
+
+==================================================
+ ITERATION 07
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 627157
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 36
+ -> Total Nodes (N)        : 627193
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 48
+ -> Total Nodes (N)        : 627241
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 2668
+ -> Total Nodes (N)        : 629909
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 3944
+ -> Total Nodes (N)        : 633853
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 168
+ -> Total Nodes (N)        : 634021
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 15172
+ -> Total Nodes (N)        : 649193
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1544
+ -> Total Nodes (N)        : 650737
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 21348
+ -> Total Nodes (N)        : 672085
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 3484
+ -> Total Nodes (N)        : 675569
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 35268
+ -> Total Nodes (N)        : 710837
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 316
+ -> Total Nodes (N)        : 711153
+
+
+
+==================================================
+ ITERATION 08
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 711153
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 56
+ -> Total Nodes (N)        : 711209
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 76
+ -> Total Nodes (N)        : 711285
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 3036
+ -> Total Nodes (N)        : 714321
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 4428
+ -> Total Nodes (N)        : 718749
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 172
+ -> Total Nodes (N)        : 718921
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 17060
+ -> Total Nodes (N)        : 735981
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1768
+ -> Total Nodes (N)        : 737749
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 24136
+ -> Total Nodes (N)        : 761885
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 3892
+ -> Total Nodes (N)        : 765777
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 39764
+ -> Total Nodes (N)        : 805541
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 336
+ -> Total Nodes (N)        : 805877
+
+
+
+==================================================
+ ITERATION 09
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 805877
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 56
+ -> Total Nodes (N)        : 805933
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 68
+ -> Total Nodes (N)        : 806001
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 3180
+ -> Total Nodes (N)        : 809181
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 4644
+ -> Total Nodes (N)        : 813825
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 188
+ -> Total Nodes (N)        : 814013
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 17756
+ -> Total Nodes (N)        : 831769
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 1832
+ -> Total Nodes (N)        : 833601
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 25068
+ -> Total Nodes (N)        : 858669
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 4020
+ -> Total Nodes (N)        : 862689
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 41208
+ -> Total Nodes (N)        : 903897
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 344
+ -> Total Nodes (N)        : 904241
+
+
+
+==================================================
+ ITERATION 10
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 8
+ -> Total Nodes (N)        : 904249
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 88
+ -> Total Nodes (N)        : 904337
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 56
+ -> Total Nodes (N)        : 904393
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 3448
+ -> Total Nodes (N)        : 907841
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 5124
+ -> Total Nodes (N)        : 912965
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 224
+ -> Total Nodes (N)        : 913189
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 19532
+ -> Total Nodes (N)        : 932721
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2032
+ -> Total Nodes (N)        : 934753
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 27340
+ -> Total Nodes (N)        : 962093
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 4300
+ -> Total Nodes (N)        : 966393
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 45052
+ -> Total Nodes (N)        : 1011445
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 368
+ -> Total Nodes (N)        : 1011813
+
+
+
+==================================================
+ ITERATION 11
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 8
+ -> Total Nodes (N)        : 1011821
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 128
+ -> Total Nodes (N)        : 1011949
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 64
+ -> Total Nodes (N)        : 1012013
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 3896
+ -> Total Nodes (N)        : 1015909
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 5844
+ -> Total Nodes (N)        : 1021753
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 224
+ -> Total Nodes (N)        : 1021977
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 21492
+ -> Total Nodes (N)        : 1043469
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2068
+ -> Total Nodes (N)        : 1045537
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 30340
+ -> Total Nodes (N)        : 1075877
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 4644
+ -> Total Nodes (N)        : 1080521
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 49940
+ -> Total Nodes (N)        : 1130461
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 368
+ -> Total Nodes (N)        : 1130829
+
+
+==================================================
+ ITERATION 12
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 1130829
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 76
+ -> Total Nodes (N)        : 1130905
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 88
+ -> Total Nodes (N)        : 1130993
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 3676
+ -> Total Nodes (N)        : 1134669
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 5244
+ -> Total Nodes (N)        : 1139913
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 224
+ -> Total Nodes (N)        : 1140137
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 20900
+ -> Total Nodes (N)        : 1161037
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2232
+ -> Total Nodes (N)        : 1163269
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 29496
+ -> Total Nodes (N)        : 1192765
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 4912
+ -> Total Nodes (N)        : 1197677
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 48412
+ -> Total Nodes (N)        : 1246089
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 412
+ -> Total Nodes (N)        : 1246501
+
+
+
+==================================================
+ ITERATION 13
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 1246501
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 56
+ -> Total Nodes (N)        : 1246557
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 80
+ -> Total Nodes (N)        : 1246637
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 3868
+ -> Total Nodes (N)        : 1250505
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 5644
+ -> Total Nodes (N)        : 1256149
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 272
+ -> Total Nodes (N)        : 1256421
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 22012
+ -> Total Nodes (N)        : 1278433
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2300
+ -> Total Nodes (N)        : 1280733
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 30872
+ -> Total Nodes (N)        : 1311605
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 4936
+ -> Total Nodes (N)        : 1316541
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 50732
+ -> Total Nodes (N)        : 1367273
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 444
+ -> Total Nodes (N)        : 1367717
+
+
+
+==================================================
+ ITERATION 14
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 8
+ -> Total Nodes (N)        : 1367725
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 136
+ -> Total Nodes (N)        : 1367861
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 80
+ -> Total Nodes (N)        : 1367941
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 4664
+ -> Total Nodes (N)        : 1372605
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 7008
+ -> Total Nodes (N)        : 1379613
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 288
+ -> Total Nodes (N)        : 1379901
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 25172
+ -> Total Nodes (N)        : 1405073
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2404
+ -> Total Nodes (N)        : 1407477
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 35584
+ -> Total Nodes (N)        : 1443061
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 5224
+ -> Total Nodes (N)        : 1448285
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 58356
+ -> Total Nodes (N)        : 1506641
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 428
+ -> Total Nodes (N)        : 1507069
+
+
+==================================================
+ ITERATION 15
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 8
+ -> Total Nodes (N)        : 1507077
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 116
+ -> Total Nodes (N)        : 1507193
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 88
+ -> Total Nodes (N)        : 1507281
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 4396
+ -> Total Nodes (N)        : 1511677
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 6504
+ -> Total Nodes (N)        : 1518181
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 276
+ -> Total Nodes (N)        : 1518457
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 24964
+ -> Total Nodes (N)        : 1543421
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2588
+ -> Total Nodes (N)        : 1546009
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 35052
+ -> Total Nodes (N)        : 1581061
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 5572
+ -> Total Nodes (N)        : 1586633
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 57448
+ -> Total Nodes (N)        : 1644081
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 456
+ -> Total Nodes (N)        : 1644537
+
+
+==================================================
+ ITERATION 16
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 1644537
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 72
+ -> Total Nodes (N)        : 1644609
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 124
+ -> Total Nodes (N)        : 1644733
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 4568
+ -> Total Nodes (N)        : 1649301
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 6688
+ -> Total Nodes (N)        : 1655989
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 280
+ -> Total Nodes (N)        : 1656269
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 25896
+ -> Total Nodes (N)        : 1682165
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2660
+ -> Total Nodes (N)        : 1684825
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 36208
+ -> Total Nodes (N)        : 1721033
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 5784
+ -> Total Nodes (N)        : 1726817
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 59592
+ -> Total Nodes (N)        : 1786409
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 476
+ -> Total Nodes (N)        : 1786885
+
+
+==================================================
+ ITERATION 17
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 1786885
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 84
+ -> Total Nodes (N)        : 1786969
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 104
+ -> Total Nodes (N)        : 1787073
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 4616
+ -> Total Nodes (N)        : 1791689
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 6728
+ -> Total Nodes (N)        : 1798417
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 300
+ -> Total Nodes (N)        : 1798717
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 26028
+ -> Total Nodes (N)        : 1824745
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2724
+ -> Total Nodes (N)        : 1827469
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 36788
+ -> Total Nodes (N)        : 1864257
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 5972
+ -> Total Nodes (N)        : 1870229
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 60388
+ -> Total Nodes (N)        : 1930617
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 520
+ -> Total Nodes (N)        : 1931137
+
+
+==================================================
+ ITERATION 18
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 1931137
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 100
+ -> Total Nodes (N)        : 1931237
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 124
+ -> Total Nodes (N)        : 1931361
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 4980
+ -> Total Nodes (N)        : 1936341
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 7300
+ -> Total Nodes (N)        : 1943641
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 268
+ -> Total Nodes (N)        : 1943909
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 27604
+ -> Total Nodes (N)        : 1971513
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2768
+ -> Total Nodes (N)        : 1974281
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 38636
+ -> Total Nodes (N)        : 2012917
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 5984
+ -> Total Nodes (N)        : 2018901
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 63344
+ -> Total Nodes (N)        : 2082245
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 540
+ -> Total Nodes (N)        : 2082785
+
+
+==================================================
+ ITERATION 19
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 0
+ -> Total Nodes (N)        : 2082785
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 56
+ -> Total Nodes (N)        : 2082841
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 108
+ -> Total Nodes (N)        : 2082949
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 5008
+ -> Total Nodes (N)        : 2087957
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 7420
+ -> Total Nodes (N)        : 2095377
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 308
+ -> Total Nodes (N)        : 2095685
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 28364
+ -> Total Nodes (N)        : 2124049
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 2980
+ -> Total Nodes (N)        : 2127029
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 40004
+ -> Total Nodes (N)        : 2167033
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 6364
+ -> Total Nodes (N)        : 2173397
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 65580
+ -> Total Nodes (N)        : 2238977
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 580
+ -> Total Nodes (N)        : 2239557
+
+
+
+==================================================
+ ITERATION 20
+==================================================
+
+ Expanding rational fraction space to max_denominator = 5:
+ -> Points Added This Pass : 16
+ -> Total Nodes (N)        : 2239573
+
+ Expanding rational fraction space to max_denominator = 25:
+ -> Points Added This Pass : 160
+ -> Total Nodes (N)        : 2239733
+
+ Expanding rational fraction space to max_denominator = 50:
+ -> Points Added This Pass : 96
+ -> Total Nodes (N)        : 2239829
+
+ Expanding rational fraction space to max_denominator = 65:
+ -> Points Added This Pass : 5632
+ -> Total Nodes (N)        : 2245461
+
+ Expanding rational fraction space to max_denominator = 85:
+ -> Points Added This Pass : 8332
+ -> Total Nodes (N)        : 2253793
+
+ Expanding rational fraction space to max_denominator = 100:
+ -> Points Added This Pass : 324
+ -> Total Nodes (N)        : 2254117
+
+ Expanding rational fraction space to max_denominator = 125:
+ -> Points Added This Pass : 31200
+ -> Total Nodes (N)        : 2285317
+
+ Expanding rational fraction space to max_denominator = 130:
+ -> Points Added This Pass : 3072
+ -> Total Nodes (N)        : 2288389
+
+ Expanding rational fraction space to max_denominator = 145:
+ -> Points Added This Pass : 43776
+ -> Total Nodes (N)        : 2332165
+
+ Expanding rational fraction space to max_denominator = 170:
+ -> Points Added This Pass : 6720
+ -> Total Nodes (N)        : 2338885
+
+ Expanding rational fraction space to max_denominator = 185:
+ -> Points Added This Pass : 71572
+ -> Total Nodes (N)        : 2410457
+
+ Expanding rational fraction space to max_denominator = 200:
+ -> Points Added This Pass : 544
+ -> Total Nodes (N)        : 2411001
+
+
+
