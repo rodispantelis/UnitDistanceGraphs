@@ -1,4 +1,4 @@
-### Experimental results for the greedy search algorithm. Unit-distance graph of 509445 nodes.
+### Experimental results for the greedy search algorithm. Unit-distance graph of 509,445 nodes.
 
 #### Current version generates a graph with a scaling exponent that exceeds 1.17.
 
